@@ -2,7 +2,7 @@
 
 *A Developer, and Cat lover*
 
-<img src="https://en.wikipedia.org/wiki/Unity_(game_engine)#/media/File:Unity_Technologies_logo.svg" alt="Python Logo, Blue and yellow snakes interweaving" width="120px" height="120px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity Logo, Unity is a cross-platform game engine developed by Unity Technologies" width="120px" height="120px" />
 
 🌱 Currently Building a Game in Unity
 
