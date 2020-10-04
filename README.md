@@ -2,7 +2,7 @@
 
 *A Developer, and Cat lover*
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python Logo, Blue and yellow snakes interweaving" width="120px" height="120px" />
+<img src="https://en.wikipedia.org/wiki/Unity_(game_engine)#/media/File:Unity_Technologies_logo.svg" alt="Python Logo, Blue and yellow snakes interweaving" width="120px" height="120px" />
 
 🌱 Currently Building a Game in Unity
 
