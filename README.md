@@ -11,4 +11,4 @@
   </a>
 </p>
 
-📫 @_CoryDev
+📫 <a href="mailto:coryf65@gmail.com">Email Me</a>
