@@ -3,10 +3,10 @@
 </a>
 
 <p align="center">
-  <a href="https://coryf.dev/">
+  <a href="https://coryf.dev/" target="_blank">
     <img src="/_images/my_logo_cf.png" width="30px;" alt="Portfolio Site" />
   </a>
-  <a href="https://www.linkedin.com/in/cory-fabian/">
+  <a href="https://www.linkedin.com/in/cory-fabian/" target="_blank">
     <img src="/_images/LI-Logo.png" width="30px;" alt="LinkedIn" />
   </a>
 </p>
