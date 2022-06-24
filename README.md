@@ -6,7 +6,7 @@
   <ul>
     <li>Love Programming</li>
     <li>Goal is to contribute something to Open Source Software</li>
-    <li>Building out an .NET 5 API</li>
+    <li>Building out an .NET 6 Minimal API</li>
     <li>Enjoy building cool software that helps others</li>
     <li>📫 <a href="mailto:coryf65@gmail.com">Email Me</a></li>
   <ul>
