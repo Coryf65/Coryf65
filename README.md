@@ -6,8 +6,9 @@
   <ul>
     <li>Love Programming</li>
     <li>Goal is to contribute something to Open Source Software</li>
-    <li>Currently working on a Recipe API, <a href="https://github.com/Coryf65/FamilyRecipes">Family Recipes</a></li>
-    <li>Enjoy building cool software that helps others</li>
+    <li>Build anything from C# .NET desktop to web using Blazor, ASP.NET, to building Game mods.</li>
+    <li>Also built out Home Assistant and VMs in XCPNG, Unifi Setups or even Racing Sims</li>
+    <li>Enjoy building cool software that helps other</li>
   <ul>
 </p>
 
